@@ -41,8 +41,7 @@ const GenerateMessage = name => {
   ];
   const d = new Date();
   const dayName = days[d.getDay()];
-  return `Hi ${name} Thanks for .... \n Happy ${dayName} 😊😊 `; // your message
-  // My message   return `Hi ${name} Thanks for being a part of my social media network. I'am the @PicsrushE founder,A new Online Image Editor completely with web technologies,I'm also a reactjs developer and medium blogger.\n Happy to discuss anytime 😊  \n Happy ${dayName} 😊😊 `;
+  return `Hi ${name}, Eu sou o Toddy, tenho um canal e gostaria muito que você me assistisse no Youtube e quem sabe passar a me acompanhar lá, é só pesquisar por: txddy. Ou acessar esse link: youtube.com/txddy?sub_confirmation=1 \n Happy ${dayName} 😊😊 `;
 };
 
 module.exports = AutoDM;
