@@ -41,7 +41,7 @@ const GenerateMessage = name => {
   ];
   const d = new Date();
   const dayName = days[d.getDay()];
-  return `Oi, tudo bom? tenho um canal no Youtube e gostaria muito que você me assistisse, é só pesquisar por: txddy ou acessar esse video https://www.youtube.com/watch?v=CG2Za1W35CA Muito obrigado. `;
+  return `Oi, tudo bom? tenho um canal no Youtube e gostaria muito que você me assistisse algum vídeo meu e quem sabe se inscreve-se, é só pesquisar por txddy ou acessar esse video https://www.youtube.com/watch?v=CG2Za1W35CA Muito obrigado. `;
 };
 
 module.exports = AutoDM;
